@@ -1,7 +1,5 @@
 # IG-Clone
 
-Instagram Clone made using following this amazing tutuorial by Sim Coder: https://www.youtube.com/playlist?list=PLxabZQCAe5fgatwOQny9wKJVs4YD6xkf1
-
 Made few QOL changes:
 <ul>
 <li>Sign-in button gets disabled after a single click</li>
